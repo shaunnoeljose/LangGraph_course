@@ -1,0 +1,5 @@
+langgraph
+langchain
+langsmith #used for tracking and evaluation of the applications
+python-dotenv
+
