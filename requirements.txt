@@ -4,3 +4,4 @@ langsmith #used for tracking and evaluation of the applications
 python-dotenv
 langchain-groq
 langchain-community
+langchain_tavily
