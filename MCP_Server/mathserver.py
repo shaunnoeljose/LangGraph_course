@@ -17,5 +17,13 @@ def multiply(a:int, b:int)-> int:
     """
     return a*b
 
+"""
+transport = "studio" argument tells the server to:
+use standard input/output (stdin and stdout) to recieve and respond to tool function calls. Helps to test things locally. 
+"""
+
+if __name__ == "__main__":
+    mcp.run(transport="stdio")
+
 
 
