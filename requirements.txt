@@ -7,4 +7,4 @@ langchain-community
 langchain_tavily
 langchain-mcp-adapters
 mcp
-langchain_openai
+# langchain_openai
