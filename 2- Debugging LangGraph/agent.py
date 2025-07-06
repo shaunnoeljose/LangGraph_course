@@ -38,8 +38,8 @@ def make_tool_graph():
         """
         return a+b
 
-    tool = add
-    tool_node = ToolNode([tool])
+    tools = add
+    tool_node = ToolNode([tools])
 
     # binding the llm
     llm_with_tool = llm.bind_tools([add])
